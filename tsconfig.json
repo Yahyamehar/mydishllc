@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "allowJs": true, // Allow TypeScript to compile JavaScript files
+    // Other compiler options...
+  },
+  "exclude": ["node_modules", ".nuxt", "dist"]
+}
